@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE repertoire SYSTEM "rep.dtd">
 <?xml-stylesheet type="text/xsl" href= "julio_transf.xsl"?>
 
 <repertoire>
@@ -40,21 +42,5 @@
         <emails>
             <email type="professionnel">contact@poppins.fr</email>
         </emails>
-    </personne>
-	
-    <!-- Batte MAN -->
-    <personne sexe="masculin">
-        <nom>MAN</nom>
-        <prenom>Batte</prenom>
-        <adresse>
-            <numero>24</numero>
-            <voie type="avenue">impasse des héros</voie>
-            <codePostal>11004</codePostal>
-            <ville>GOTHAM CITY</ville>
-            <pays>USA</pays>
-        </adresse>
-        <telephones>
-            <telephone type="professionnel">01 03 05 07 09</telephone>
-        </telephones>
     </personne>
 </repertoire>
