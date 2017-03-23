@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<repertoire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mypers.xsd">
+	
+	<!-- RANDRIANASOLO Miaramalala -->
+    <personne sexe="masculin">
+        <nom>RANDRIANASOLO</nom>
+        <prenom>Miaramalala</prenom>
+		<matricule>11238</matricule>
+        <adresse>
+            <numero>1100</numero>
+            <voie type="impasse">MEP</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">034 25 256 25</telephone>
+            <telephone type="portable">020 56 458 65</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">miaramalala@gmail.com</email>
+            <email type="professionnel">miaramalala@jouve.com</email>
+        </emails>
+    </personne>
+	
+	<!-- ANDRIANAHAFENOSOA Mampianina -->
+    <personne sexe="masculin">
+        <nom>ANDRIANAHAFENOSOA</nom>
+        <prenom>Mampianina</prenom>
+		<matricule>02290</matricule>
+        <adresse>
+            <numero>1101</numero>
+            <voie type="impasse">MEP</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">033 56 245 89</telephone>
+            <telephone type="portable">020 00 156 87</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">Mampianina@gmail.com</email>
+            <email type="professionnel">Mampianina@jouve.com</email>
+        </emails>
+    </personne>
+	
+	<!-- NARISOA Evelyne Bazoly -->
+    <personne sexe="masculin">
+        <nom>NARISOA Evelyne </nom>
+        <prenom>Bazoly</prenom>
+		<matricule>02342</matricule>
+        <adresse>
+            <numero>1102</numero>
+            <voie type="impasse">MEP</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">033 56 987 58</telephone>
+            <telephone type="portable">020 69 596 59</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">Bazoly@gmail.com</email>
+            <email type="professionnel">Bazoly@jouve.com</email>
+        </emails>
+    </personne>
+	
+	<!-- RABEARISOA Mavonimanana Mihantrasoa -->
+    <personne sexe="masculin">
+        <nom>RABEARISOA Mavonimanana </nom>
+        <prenom>Mihantrasoa</prenom>
+		<matricule>10170</matricule>
+        <adresse>
+            <numero>1103</numero>
+            <voie type="impasse">QC</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">032 41 456 98</telephone>
+            <telephone type="portable">020 12 845 98</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">Mihantrasoa@gmail.com</email>
+            <email type="professionnel">Mihantrasoa@jouve.com</email>
+        </emails>
+    </personne>
+	
+	<!-- RAOERASON Veromanitralisoa Brigitte -->
+    <personne sexe="masculin">
+        <nom>RAOERASON Veromanitralisoa</nom>
+        <prenom>Brigitte</prenom>
+		<matricule>10405</matricule>
+        <adresse>
+            <numero>1104</numero>
+            <voie type="impasse">QC</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">032 41 456 98</telephone>
+            <telephone type="portable">020 12 845 98</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">Brigitte@gmail.com</email>
+            <email type="professionnel">Brigitte@jouve.com</email>
+        </emails>
+    </personne>
+	
+	<!-- RAHOLISOA Clara Barthelemy -->
+    <personne sexe="masculin">
+        <nom>RAHOLISOA</nom>
+        <prenom>Clara Barthelemy</prenom>
+		<matricule>10406</matricule>
+        <adresse>
+            <numero>1104</numero>
+            <voie type="impasse">STRUCT</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">032 41 456 98</telephone>
+            <telephone type="portable">020 12 845 98</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">Clara@gmail.com</email>
+            <email type="professionnel">Clara@jouve.com</email>
+        </emails>
+    </personne>
+
+	<!-- RANDRIATIANA MAMY Alain -->
+    <personne sexe="masculin">
+        <nom>RANDRIATIANA MAMY</nom>
+        <prenom>Alain</prenom>
+		<matricule>02324</matricule>
+        <adresse>
+            <numero>1105</numero>
+            <voie type="impasse">STRUCT</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">032 41 456 98</telephone>
+            <telephone type="portable">020 12 845 98</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">Alain@gmail.com</email>
+            <email type="professionnel">Alain@jouve.com</email>
+        </emails>
+    </personne>
+	
+	<!-- RANDREMA Aina Mbolatiana -->
+    <personne sexe="masculin">
+        <nom>RANDREMA Aina </nom>
+        <prenom>Mbolatiana</prenom>
+		<matricule>13079</matricule>
+        <adresse>
+            <numero>1105</numero>
+            <voie type="impasse">STRUCT</voie>
+            <codePostal>110</codePostal>
+            <ville>Antananarivo</ville>
+            <pays>MADAGASCAR</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">032 41 456 98</telephone>
+            <telephone type="portable">020 12 845 98</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">Mbolatiana@gmail.com</email>
+            <email type="professionnel">Mbolatiana@jouve.com</email>
+        </emails>
+    </personne>
+	
+</repertoire>
